@@ -1,0 +1,6 @@
+Las variables scope o alcance de variables son las variables que se declaran dentro de una clase pero fuera de sus metodos los cuales son llamados variables globales ya
+que pueden ser usados en toda la clase incluyendo sus metodos.
+
+En cambio las variables locales solo pueden ser usadas dentro del mismo método que se declaró en una clase.
+
+En esta sección 'VariableScope.java' es el archivo principal y 'DadoVariableScope.java' es el archivo donde se creó la clase que se va a exportar al principal.
