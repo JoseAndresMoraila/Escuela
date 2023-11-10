@@ -1,0 +1,7 @@
+Como declarar clases y crear objetos mediante esas clases.
+
+Puedes crear clases dentro del mismo archivo principal pero tendrán que llevar 'static public class' y ser declarados dentro de la clase principal pero fuera del metodo
+principal.
+
+Y en el caso de que quieras crear una clase en otro archivo para importarlo al principal puede estar dentro de la misma carpeta sin tener que poner palabras clave para
+importarlo y solo se le tiene que poner 'public class'
