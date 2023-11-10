@@ -5,3 +5,6 @@ principal.
 
 Y en el caso de que quieras crear una clase en otro archivo para importarlo al principal puede estar dentro de la misma carpeta sin tener que poner palabras clave para
 importarlo y solo se le tiene que poner 'public class'
+
+En esta carpeta de GitHub llamada 'Objetos' que pertenece al repositorio 'Escuela' para que 'Objetos.java' funcione la cual es la clase principal se importa la clase 
+'Carros.java' la cual contiene la clase que se va a usar para crear objetos en el archivo principal
