@@ -20,7 +20,7 @@ public class ObjetosComoArgumentos{
         // Creamos un constructor
         String Modelo;
         Coches(String Modelo){
-            this.Modelo = Modelo;
+            this.Modelo = Modelo; // Variable de clase va a ser igual a lo que se puso como argumento al crear un objeto basado en 'Coches'
         }
     }
 
