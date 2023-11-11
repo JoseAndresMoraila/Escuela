@@ -1,7 +1,7 @@
 public class StaticKeyword{
     public static void main(String[] args){
         /* La palabra clase 'static' sirve para señalar que solo hay una copia de una variable o metodo y que puede ser compartida sin
-         que haya varias copias de esa variable de clase sino que interactue como una sola cuando se cree un nuevo objeto basado en la clase.
+         que haya varias copias de esa variable de clase sino que interactue como una sola cuando se crea un nuevo objeto basado en la clase.
          Si no entiendes aquí te explico:*/
 
         Amigos Compa1 = new Amigos("Gael"); //Dentro del constructor pusimos que 'NumeroDeAmigos' se incremente de uno en uno al crear un nuevo objeto basado en esa clase
@@ -16,7 +16,7 @@ public class StaticKeyword{
 
     static public class Amigos{
         String Nombre;
-        static int NumeroDeAmigos; //Es decir 'NumeroDeAmigos' actuará como una variable compartida cada que se cree un nuevo objeto
+        static int NumeroDeAmigos; //Es decir 'NumeroDeAmigos' actuará como una variable compartida cada que se crea un nuevo objeto
         Amigos(String Nombre){
             this.Nombre = Nombre;
             NumeroDeAmigos++;
