@@ -3,10 +3,10 @@ public class Vehiculo {
     double Velocidad;
 
     void Avanzar(){
-        System.out.println("Este vehículo se está moviendo");
+        System.out.println("Este vehículo se está moviendo"); //Este método se va a heredar a las clases 'Bicicleta' y 'Carro'
     }
 
     void Parar(){
-        System.out.println("Este vehículo se ha parado");
+        System.out.println("Este vehículo se ha parado"); //Este método se va a heredar a las clases 'Bicicleta' y 'Carro'
     }
 }
