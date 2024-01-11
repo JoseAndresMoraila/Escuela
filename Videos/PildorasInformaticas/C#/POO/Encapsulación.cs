@@ -1,4 +1,4 @@
-/*La Encapsulacion es escencial en programación orientada a objetos ya que nos permite proteger una función o variable de clase dependiendo
+/*La encapsulacion es escencial en programación orientada a objetos ya que nos permite proteger una función o variable de clase dependiendo
 su función en el programa así evitar errores y que haya consistencia y sea más legible un código. La encapsulación es una técnica de
 programación orientada a objetos que se utiliza para ocultar la complejidad de una clase y proteger sus datos y métodos del acceso no
 autorizado.
